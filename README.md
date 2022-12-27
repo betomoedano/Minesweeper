@@ -1,24 +1,9 @@
 ---
 title: Minesweeper
 author: betomoedano
-thumbnail: https://i.ytimg.com/vi/2noGlR1DXsM/maxresdefault.jpg
-# thumbnail: /thumbnails/thu.png
-about: Create a Minesweeper game with React Native.
-video: https://youtu.be/2noGlR1DXsM
-date: 26 Dec 2022
-lenguages: Javascript
-framework: RN
-projectType: Mobile
-views: 102
-idVideo: 2noGlR1DXsM
 ---
 
-<VimeoPlayer
-  src="https://www.youtube.com/embed/Yi6kwUZDtkw"
-  title="Adding Posts and Reactions"
-/>
-
-[![video](https://img.youtube.com/vi/NNVPZFKAJIQ/0.jpg)](https://www.youtube.com/watch?v=NNVPZFKAJIQ)
+[![video](https://img.youtube.com/vi/Yi6kwUZDtkw/0.jpg)](https://www.youtube.com/watch?v=Yi6kwUZDtkw)
 
 ## Watch out! 💣
 
