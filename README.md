@@ -3,7 +3,7 @@ title: Minesweeper
 author: betomoedano
 ---
 
-[![video](https://img.youtube.com/vi/Yi6kwUZDtkw/0.jpg)](https://www.youtube.com/watch?v=Yi6kwUZDtkw)
+[![video](https://img.youtube.com/vi/NNVPZFKAJIQ/0.jpg)](https://www.youtube.com/watch?v=NNVPZFKAJIQ)
 
 ## Watch out! 💣
 
@@ -21,4 +21,4 @@ Also It will help you to get comfortable using React Native to build complex pro
 
 If you are not familiar with Minesweeper I encourage you to play a couple rounds [here](https://www.google.com/search?q=mineswiper&oq=mine&aqs=chrome.0.69i59j69i57j46i20i263i433i512j69i59j69i60l4.839j0j7&sourceid=chrome&ie=UTF-8) before you start coding.
 
-Want to become a master in React Native? Check the [React Native Course](https://www.codewithbeto/learn)
+**Want to become a master in React Native? Check the [React Native Course](https://www.codewithbeto/learn)**
