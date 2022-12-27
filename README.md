@@ -18,6 +18,8 @@ idVideo: 2noGlR1DXsM
   title="Adding Posts and Reactions"
 />
 
+[![video](https://img.youtube.com/vi/NNVPZFKAJIQ/0.jpg)](https://www.youtube.com/watch?v=NNVPZFKAJIQ)
+
 ## Watch out! 💣
 
 Minesweeper is a logic puzzle video game created by [Microsoft](https://www.microsoft.com/en-us/?ql=4) in the 1990s. It's very probable that
